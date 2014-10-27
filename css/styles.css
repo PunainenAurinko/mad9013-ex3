@@ -27,8 +27,8 @@ p{
 }
 
 
-.wrapper{
-  max-width: 1024px;
+.wrapper {
+  max-width: 1030px;
   margin: 0 auto;
 }
 
@@ -54,7 +54,11 @@ p{
   margin: 3rem 0;
 }
 
+@media all and (min-width: 1024px) {
 
+    
+
+}
 
 
 
